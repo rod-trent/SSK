@@ -1,4 +1,5 @@
 # Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria
+## EXCLUSIVE: Free Chapter!
 
 Welcome to the repository for the Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria by Rod Trent
 
