@@ -2,4 +2,4 @@
 
 Welcome to the repository for the Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria by Rod Trent
 
-https://github.com/rod-trent/SSK/blob/main/Images/GitHub2.jpg
+<p align="center"><img src="https://github.com/rod-trent/SSK/blob/main/Images/GitHub2.jpg"></center></p>
