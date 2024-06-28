@@ -6,10 +6,10 @@ My fiction novel, Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria, i
 
 * Download a <a href="https://github.com/rod-trent/SSK/blob/main/Free_Chapter/Sword%20of%20the%20Shattered%20Kingdoms-FreeChapter10.pdf" target="_blank">free chapter</a> to get started!
 
-* Paperback: https://amzn.to/3ztECgT 
+* Get the paperback: https://amzn.to/3ztECgT 
 
-* eBook/Kindle: https://amzn.to/4ckE0ci 
+* Get the eBook/Kindle version: https://amzn.to/4ckE0ci 
 
-* Audio book: https://lnkd.in/gNXHNBmj 
+* Get the audiobook: https://lnkd.in/gNXHNBmj 
 
 <p align="center"><img src="https://github.com/rod-trent/SSK/blob/main/Images/GitHub2.jpg"></center></p>
