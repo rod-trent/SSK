@@ -1,6 +1,6 @@
 # Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria
 
-Welcome to the repository for the Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria by Rod Trent
+Welcome to the series repository for the Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria by Rod Trent
 
 My fiction novel, Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria, is now fully released. Available in paperback, Kindle/eBook, and Audio book. Amazon's Kindle Unlimited members can read it for free.
 
@@ -13,3 +13,17 @@ My fiction novel, Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria, i
 * Get the audiobook: https://lnkd.in/gNXHNBmj 
 
 <p align="center"><img src="https://github.com/rod-trent/SSK/blob/main/Images/GitHub2.jpg"></center></p>
+
+# Isolde Frostbane: Legacy of the Ice Priestess - A Sword of the Shattered Kingdoms Novel
+
+The second novel in the series is now available for pre-order from Amazon! 
+
+* eBook pre-order:
+  
+* Paperback (available on September 1st)
+
+Download <a href="https://github.com/rod-trent/SSK/blob/main/Free_Chapter/Isolde%20Free%20Chapter%201.pdf" target="_blank">free chapter</a>!
+
+<p align="center"><img src="https://github.com/rod-trent/SSK/blob/main/Images/Isolde/Alternatebookcover.png"></center></p>
+
+
