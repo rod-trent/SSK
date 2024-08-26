@@ -18,7 +18,7 @@ My fiction novel, Sword of the Shattered Kingdoms: Ancient Crystal of Eldoria, i
 
 The second novel in the series is now available for pre-order from Amazon! 
 
-* eBook pre-order:
+* eBook pre-order: https://amzn.to/3XiqiRQ 
   
 * Paperback (available on September 1st)
 
