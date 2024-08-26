@@ -22,7 +22,7 @@ The second novel in the series is now available for pre-order from Amazon!
   
 * Paperback (available on September 1st)
 
-Download <a href="https://github.com/rod-trent/SSK/blob/main/Free_Chapter/Isolde%20Free%20Chapter%201.pdf" target="_blank">free chapter</a>!
+Download a <a href="https://github.com/rod-trent/SSK/blob/main/Free_Chapter/Isolde%20Free%20Chapter%201.pdf" target="_blank">free chapter</a>!
 
 <p align="center"><img src="https://github.com/rod-trent/SSK/blob/main/Images/Isolde/Alternatebookcover_smaller.png"></center></p>
 
