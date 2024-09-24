@@ -22,7 +22,7 @@ The second novel in the series is now available for pre-order from Amazon!
 
 * eBook pre-order: https://amzn.to/3XiqiRQ 
   
-* Paperback (available on October 1st)
+* Paperback (available on October 18th)
 
 <p align="center"><img src="https://github.com/rod-trent/SSK/blob/main/Images/Isolde/Alternatebookcover_smaller.png"></center></p>
 
